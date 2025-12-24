@@ -56,8 +56,4 @@ I have worked on projects that served thousands of users, built scalable applica
 
 </div>
 
----
 
-Notes:
-- If `profile-card.svg` is not uploaded yet, either upload it to the repository root or remove the `<img src="./profile-card.svg" />` line to avoid a broken image in the README.
-- Want me to push these files to your repo (README + SVG or PNG)? Reply "Commit it" and I'll prepare the commit. 
